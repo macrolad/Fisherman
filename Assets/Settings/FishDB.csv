@@ -1,0 +1,4 @@
+Name;Price;Weight;MinSize;MaxSize;Description;CatchText;PullForce;Rarity;Sprite;
+Dummy;1;100;2;6;Just a dummy asset;What a dummy!;1;1;1;
+Tire;0;100;2;5;Welp;Tralari;1;0;1;
+Mermaid;8000;100;2;5;Mermaid Swamp;Tralari;1;5;1;
